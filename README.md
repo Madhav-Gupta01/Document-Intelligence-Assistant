@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📄 Document Intelligence Assistant
 
 A smart web-based assistant that allows users to upload documents (`PDF`, `DOCX`, `TXT`), ask questions, and get meaningful answers or summaries using modern AI models and semantic search.
@@ -300,3 +301,7 @@ Developed  by [Jatin Jasrotia](https://github.com/Jatin-35), Ankitkumar Patel, M
 
 
 
+=======
+# Document-Intelligence-Assistant
+An GenAI-driven tool to upload documents, ask questions, and get contextual answers or summaries using semantic search and LLMs. Built with FastAPI, Next.js, ChromaDB, and Groq/OpenRouter APIs.
+>>>>>>> a4095ecb9cce48f7660a794b403a11c390427bc1
